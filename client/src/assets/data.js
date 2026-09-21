@@ -38,7 +38,7 @@ import product_37 from "./product_37.png";
 import product_38 from "./product_38.png";
 import warm from "./warm wood.jpg";
 import whitejasmine from "./White jasmine.png";
-import whiteorchids from "./white orchids.png";
+import whiteorchids from "./White orchids.png";
 import oudwood from "./oud wood.png";
 import softpink from "./soft pink.jpg";
 import orange from "./orange blossom.jpg";
